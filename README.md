@@ -10,4 +10,12 @@ npm install
 
 # Serve on localhost:3000
 npm run dev
+
+
+
+after commit put
+AWS_ID=
+AWS_SECRET=
+AWS_BUCKET_NAME=
+in .env file
 ```
